@@ -2,7 +2,7 @@
 
 import axios from 'axios';
 
-let baseURL = 'http://localhost:8000';
+let baseURL = 'https://ilem-ecomm.onrender.com';
 const API = {
     get: async (url: any) => {
         let result = await axios.get(baseURL + url);
