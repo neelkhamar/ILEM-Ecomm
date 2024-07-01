@@ -1,0 +1,21 @@
+# ILEM-Ecomm
+This is a test project for ILEM
+
+Frontend: (NextJs)
+cd /Frontend
+npm install
+npm run build
+npm start
+
+Backend: (NodeJs, ExpressJs, MongoDB, Mongoose)
+cd /Backend
+npm install
+npm start
+
+Vercel Deployment Link
+https://ilem-ecomm.vercel.app/
+
+Frontend has been deployed on Vercel whereas the backend is deployed on Render.com
+
+Recorded Video
+https://www.loom.com/share/94ec1b0d42aa46198518fc44fa05889a?sid=1fcc3e53-f424-4ce3-8c08-39c6ea8fd30d
